@@ -14,8 +14,8 @@
 #set heading(numbering: "1.")
 
 #align(center)[
-  #text(size: 24pt, weight: "bold")[第一讲]\
+  #text(size: 24pt, weight: "bold")[第二讲]\
   #v(10pt)
-  #text(size: 16pt)[——总体介绍——]
+  #text(size: 16pt)[——test——]
 ]
 = 
