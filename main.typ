@@ -11,3 +11,4 @@
 
 #include "Lesson1.typ"
 #include "Lesson2.typ"
+#include "Lesson3.typ"
